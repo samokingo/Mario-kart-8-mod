@@ -1,0 +1,12 @@
+{
+  "formatVersion": 1,
+  "name": "Mario Kart 8 Mods",
+  "author": "Mrbeast",
+  "description": "I offer anything and i mean it",
+  "version": "1",
+  "games": [
+    {
+      "path": "games/mario-kart-8/game.json"
+    }
+  ]
+}
