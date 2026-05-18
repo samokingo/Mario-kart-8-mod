@@ -1,0 +1,29 @@
+{
+  "name": "Mario Kart 8",
+  "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1_9ZiVH2LjUuv-hVtTQj6W4zCjkVidMSJfRKKSpv6Cw&s=10",
+  "titleIds": [
+    "0005000010101C00"
+  ],
+  "mods": [
+    {
+      "id": "mario-kart-8-deluxe",
+      "name": "Mario Kart 8 Deluxe ",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Mrbeast",
+      "description": "This mod adds Mario Kart 8 Deluxe Features to the base Game",
+      "download": "https://drive.usercontent.google.com/download?id=1VGYzMwpJENhGDgYtudzKQMGmoALLkIE4&export=download&authuser=0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1_9ZiVH2LjUuv-hVtTQj6W4zCjkVidMSJfRKKSpv6Cw&s=10",
+      "screenshots": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbp-Ig95mvzfblg-gMw6tageCgm-BhvDe_qIXsY7mb7_eNlUVI8H1IucN&s=10",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgR87CBm7ACHsWQlgzl6LNV6gMb3h8MwM9fWdX5HvSwg&s=10"
+      ],
+      "releaseDate": "2026-05-18",
+      "license": "Ggpt with double ggs",
+      "tags": [
+        "skin,interface,double items"
+      ],
+      "changelog": "1.0.0 adds nothing "
+    }
+  ]
+}
